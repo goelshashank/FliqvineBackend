@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/services-core-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/antlr4-runtime-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/spring-beans-3.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-gvt-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/core-datamodel-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/minimal-json-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/gson-2.2.4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-script-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-svg-dom-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-js-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/spring-context-3.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/spring-javaconfig-1.0.0.m3.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-extension-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/spring-aop-3.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/guava-11.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/jsoup-1.8.3.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/spring-expression-3.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/thumbnailator-0.4.8.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/handlebars-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-bridge-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/aspectjrt-1.6.11.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/httpcore-4.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/xalan-2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-awt-util-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-ext-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-parser-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/mongo-java-driver-2.12.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/jsr305-1.3.9.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/commons-io-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/joda-time-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/xmlgraphics-commons-1.5.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/spring-web-3.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-transcoder-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-util-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/service-framework-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/annotations-1.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/xercesImpl-2.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/slf4j-log4j12-1.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/xml-apis-ext-1.3.04.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-css-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/scribe-1.3.5.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-xml-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/morphia-0.108.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/spring-core-3.2.4.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/rhino-1.7R4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/imgscalr-lib-4.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/avalon-framework-api-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-dom-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/hazelcast-3.4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/httpclient-4.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-svggen-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/batik-anim-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/fop-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/avalon-framework-impl-4.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.services~services-api~1.0.0-SNAPSHOT/lib/aspectjweaver-1.6.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

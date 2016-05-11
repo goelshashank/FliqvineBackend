@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+      <entry name="?*.ftl" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="core-datamodel" />
+        <module name="dataservice" />
+        <module name="services-analytics" />
+        <module name="services-api" />
+        <module name="services-api-internal" />
+        <module name="services-core" />
+        <module name="services-mail" />
+        <module name="services-manager" />
+        <module name="services-marketing" />
+        <module name="services-notification" />
+        <module name="services-rest" />
+        <module name="services-seo" />
+        <module name="services-test" />
+        <module name="standalone_run" />
+        <module name="uploadserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core-datamodel" target="1.7" />
+      <module name="dataservice" target="1.7" />
+      <module name="maven-parent" target="1.7" />
+      <module name="services-analytics" target="1.7" />
+      <module name="services-api" target="1.7" />
+      <module name="services-api-internal" target="1.7" />
+      <module name="services-core" target="1.7" />
+      <module name="services-mail" target="1.7" />
+      <module name="services-manager" target="1.7" />
+      <module name="services-marketing" target="1.7" />
+      <module name="services-notification" target="1.7" />
+      <module name="services-rest" target="1.7" />
+      <module name="services-seo" target="1.7" />
+      <module name="services-test" target="1.7" />
+      <module name="standalone_run" target="1.5" />
+      <module name="uploadserver" target="1.7" />
+      <module name="vertx-maven-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: io.vertx:testtools:2.0.0-final">
+    <archive path="/home/eeshan/.m2/repository/io/vertx/testtools/2.0.0-final/testtools-2.0.0-final.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjrt:1.6.11">
+    <archive path="/home/eeshan/.m2/repository/org/aspectj/aspectjrt/1.6.11/aspectjrt-1.6.11.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.3.2">
+    <archive path="/home/eeshan/.m2/repository/org/apache/httpcomponents/httpclient/4.3.2/httpclient-4.3.2.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-anim:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-anim/1.7/batik-anim-1.7.jar" />
+  </library>
+  <library name="Maven: org.json:json:20140107">
+    <archive path="/home/eeshan/.m2/repository/org/json/json/20140107/json-20140107.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-lgpl:1.9.12">
+    <archive path="/home/eeshan/.m2/repository/org/codehaus/jackson/jackson-mapper-lgpl/1.9.12/jackson-mapper-lgpl-1.9.12.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.16">
+    <archive path="/home/eeshan/.m2/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.11">
+    <archive path="/home/eeshan/.m2/repository/junit/junit/4.11/junit-4.11.jar" />
+  </library>
+  <library name="Maven: io.netty:netty-all:4.0.10.Final">
+    <archive path="/home/eeshan/.m2/repository/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.1.4">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.1.4/jackson-databind-2.1.4.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongo-java-driver:2.12.2">
+    <archive path="/home/eeshan/.m2/repository/org/mongodb/mongo-java-driver/2.12.2/mongo-java-driver-2.12.2.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:3.2.4.RELEASE">
+    <archive path="/home/eeshan/.m2/repository/org/springframework/spring-core/3.2.4.RELEASE/spring-core-3.2.4.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-core-lgpl:1.9.12">
+    <archive path="/home/eeshan/.m2/repository/org/codehaus/jackson/jackson-core-lgpl/1.9.12/jackson-core-lgpl-1.9.12.jar" />
+  </library>
+  <library name="Maven: com.eclipsesource.minimal-json:minimal-json:0.9.1">
+    <archive path="/home/eeshan/.m2/repository/com/eclipsesource/minimal-json/minimal-json/0.9.1/minimal-json-0.9.1.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-dom:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-dom/1.7/batik-dom-1.7.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-svggen:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-svggen/1.7/batik-svggen-1.7.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-extension:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-extension/1.7/batik-extension-1.7.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.6.2">
+    <archive path="/home/eeshan/.m2/repository/org/slf4j/slf4j-api/1.6.2/slf4j-api-1.6.2.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="/home/eeshan/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.beanshell:bsh:2.0b4">
+    <archive path="/home/eeshan/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-gvt:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-gvt/1.7/batik-gvt-1.7.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-awt-util:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-awt-util/1.7/batik-awt-util-1.7.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-bridge:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-bridge/1.7/batik-bridge-1.7.jar" />
+  </library>
+  <library name="Maven: avalon-framework:avalon-framework-impl:4.2.0">
+    <archive path="/home/eeshan/.m2/repository/avalon-framework/avalon-framework-impl/4.2.0/avalon-framework-impl-4.2.0.jar" />
+  </library>
+  <library name="Maven: com.hazelcast:hazelcast:2.6">
+    <archive path="/home/eeshan/.m2/repository/com/hazelcast/hazelcast/2.6/hazelcast-2.6.jar" />
+  </library>
+  <library name="Maven: net.coobird:thumbnailator:0.4.8">
+    <archive path="/home/eeshan/.m2/repository/net/coobird/thumbnailator/0.4.8/thumbnailator-0.4.8.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:xmlgraphics-commons:1.5">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/xmlgraphics-commons/1.5/xmlgraphics-commons-1.5.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:3.2.4.RELEASE">
+    <archive path="/home/eeshan/.m2/repository/org/springframework/spring-context/3.2.4.RELEASE/spring-context-3.2.4.RELEASE.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.6">
+    <archive path="/home/eeshan/.m2/repository/commons-codec/commons-codec/1.6/commons-codec-1.6.jar" />
+  </library>
+  <library name="Maven: io.vertx:vertx-core:2.0.2-final">
+    <archive path="/home/eeshan/.m2/repository/io/vertx/vertx-core/2.0.2-final/vertx-core-2.0.2-final.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.1">
+    <archive path="/home/eeshan/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.2.2">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.2/jackson-core-2.2.2.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.1">
+    <archive path="/home/eeshan/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:3.2.4.RELEASE">
+    <archive path="/home/eeshan/.m2/repository/org/springframework/spring-aop/3.2.4.RELEASE/spring-aop-3.2.4.RELEASE.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="/home/eeshan/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.1.1">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.1.1/jackson-databind-2.1.1.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:11.0.1">
+    <archive path="/home/eeshan/.m2/repository/com/google/guava/guava/11.0.1/guava-11.0.1.jar" />
+  </library>
+  <library name="Maven: com.brightcove.zencoder.api:zencoder-java:2.0.15">
+    <archive path="/home/eeshan/.m2/repository/com/brightcove/zencoder/api/zencoder-java/2.0.15/zencoder-java-2.0.15.jar" />
+  </library>
+  <library name="Maven: com.googlecode.jmockit:jmockit:1.4">
+    <archive path="/home/eeshan/.m2/repository/com/googlecode/jmockit/jmockit/1.4/jmockit-1.4.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:3.2.4.RELEASE">
+    <archive path="/home/eeshan/.m2/repository/org/springframework/spring-expression/3.2.4.RELEASE/spring-expression-3.2.4.RELEASE.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.2.2">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.2/jackson-annotations-2.2.2.jar" />
+  </library>
+  <library name="Maven: org.imgscalr:imgscalr-lib:4.2">
+    <archive path="/home/eeshan/.m2/repository/org/imgscalr/imgscalr-lib/4.2/imgscalr-lib-4.2.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.6.11">
+    <archive path="/home/eeshan/.m2/repository/org/aspectj/aspectjweaver/1.6.11/aspectjweaver-1.6.11.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:1.3.1">
+    <archive path="/home/eeshan/.m2/repository/commons-io/commons-io/1.3.1/commons-io-1.3.1.jar" />
+  </library>
+  <library name="Maven: cglib:cglib-nodep:2.1_3">
+    <archive path="/home/eeshan/.m2/repository/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:3.2.4.RELEASE">
+    <archive path="/home/eeshan/.m2/repository/org/springframework/spring-web/3.2.4.RELEASE/spring-web-3.2.4.RELEASE.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.1.1">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.1.1/jackson-core-2.1.1.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.12">
+    <archive path="/home/eeshan/.m2/repository/com/beust/jcommander/1.12/jcommander-1.12.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-xml:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-xml/1.7/batik-xml-1.7.jar" />
+  </library>
+  <library name="Maven: com.github.jknack:handlebars-jackson2:1.2.1">
+    <archive path="/home/eeshan/.m2/repository/com/github/jknack/handlebars-jackson2/1.2.1/handlebars-jackson2-1.2.1.jar" />
+  </library>
+  <library name="Maven: avalon-framework:avalon-framework-api:4.2.0">
+    <archive path="/home/eeshan/.m2/repository/avalon-framework/avalon-framework-api/4.2.0/avalon-framework-api-4.2.0.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-parser:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-parser/1.7/batik-parser-1.7.jar" />
+  </library>
+  <library name="Maven: com.hazelcast:hazelcast:3.4">
+    <archive path="/home/eeshan/.m2/repository/com/hazelcast/hazelcast/3.4/hazelcast-3.4.jar" />
+  </library>
+  <library name="Maven: org.springframework.javaconfig:spring-javaconfig:1.0.0.m3">
+    <archive path="/home/eeshan/.m2/repository/org/springframework/javaconfig/spring-javaconfig/1.0.0.m3/spring-javaconfig-1.0.0.m3.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:1.3.9">
+    <archive path="/home/eeshan/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+  </library>
+  <library name="Maven: joda-time:joda-time:2.5">
+    <archive path="/home/eeshan/.m2/repository/joda-time/joda-time/2.5/joda-time-2.5.jar" />
+  </library>
+  <library name="Maven: org.scribe:scribe:1.3.5">
+    <archive path="/home/eeshan/.m2/repository/org/scribe/scribe/1.3.5/scribe-1.3.5.jar" />
+  </library>
+  <library name="Maven: org.mozilla:rhino:1.7R4">
+    <archive path="/home/eeshan/.m2/repository/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.3">
+    <archive path="/home/eeshan/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-script:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-script/1.7/batik-script-1.7.jar" />
+  </library>
+  <library name="Maven: org.antlr:antlr4-runtime:4.1">
+    <archive path="/home/eeshan/.m2/repository/org/antlr/antlr4-runtime/4.1/antlr4-runtime-4.1.jar" />
+  </library>
+  <library name="Maven: net.sourceforge.findbugs:annotations:1.3.2">
+    <archive path="/home/eeshan/.m2/repository/net/sourceforge/findbugs/annotations/1.3.2/annotations-1.3.2.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.3.1">
+    <archive path="/home/eeshan/.m2/repository/org/apache/httpcomponents/httpcore/4.3.1/httpcore-4.3.1.jar" />
+  </library>
+  <library name="Maven: org.mongodb.morphia:morphia:0.108">
+    <archive path="/home/eeshan/.m2/repository/org/mongodb/morphia/morphia/0.108/morphia-0.108.jar" />
+  </library>
+  <library name="Maven: xalan:xalan:2.6.0">
+    <archive path="/home/eeshan/.m2/repository/xalan/xalan/2.6.0/xalan-2.6.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.6.4">
+    <archive path="/home/eeshan/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.6">
+    <archive path="/home/eeshan/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:fop:1.1">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/fop/1.1/fop-1.1.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:6.1.1">
+    <archive path="/home/eeshan/.m2/repository/org/testng/testng/6.1.1/testng-6.1.1.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpcore:4.2">
+    <archive path="/home/eeshan/.m2/repository/org/apache/httpcomponents/httpcore/4.2/httpcore-4.2.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-css:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-css/1.7/batik-css-1.7.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.3">
+    <archive path="/home/eeshan/.m2/repository/commons-codec/commons-codec/1.3/commons-codec-1.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.2.2">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.2/jackson-databind-2.2.2.jar" />
+  </library>
+  <library name="Maven: org.jsoup:jsoup:1.8.3">
+    <archive path="/home/eeshan/.m2/repository/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-util:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-util/1.7/batik-util-1.7.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.1.4">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.1.4/jackson-annotations-2.1.4.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.2.4">
+    <archive path="/home/eeshan/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
+  </library>
+  <library name="Maven: com.github.jknack:handlebars:1.2.1">
+    <archive path="/home/eeshan/.m2/repository/com/github/jknack/handlebars/1.2.1/handlebars-1.2.1.jar" />
+  </library>
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <archive path="/home/eeshan/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.6.4">
+    <archive path="/home/eeshan/.m2/repository/org/slf4j/slf4j-log4j12/1.6.4/slf4j-log4j12-1.6.4.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.1.1">
+    <archive path="/home/eeshan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.1.1/jackson-annotations-2.1.1.jar" />
+  </library>
+  <library name="Maven: com.amazonaws:aws-java-sdk:1.6.12">
+    <archive path="/home/eeshan/.m2/repository/com/amazonaws/aws-java-sdk/1.6.12/aws-java-sdk-1.6.12.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis-ext:1.3.04">
+    <archive path="/home/eeshan/.m2/repository/xml-apis/xml-apis-ext/1.3.04/xml-apis-ext-1.3.04.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-transcoder:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-transcoder/1.7/batik-transcoder-1.7.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-svg-dom:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-svg-dom/1.7/batik-svg-dom-1.7.jar" />
+  </library>
+  <library name="Maven: xerces:xercesImpl:2.4.0">
+    <archive path="/home/eeshan/.m2/repository/xerces/xercesImpl/2.4.0/xercesImpl-2.4.0.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:3.2.4.RELEASE">
+    <archive path="/home/eeshan/.m2/repository/org/springframework/spring-beans/3.2.4.RELEASE/spring-beans-3.2.4.RELEASE.jar" />
+  </library>
+  <library name="Maven: io.vertx:vertx-platform:2.0.2-final">
+    <archive path="/home/eeshan/.m2/repository/io/vertx/vertx-platform/2.0.2-final/vertx-platform-2.0.2-final.jar" />
+  </library>
+  <library name="Maven: com.thoughtworks.proxytoys:proxytoys:1.0">
+    <archive path="/home/eeshan/.m2/repository/com/thoughtworks/proxytoys/proxytoys/1.0/proxytoys-1.0.jar" />
+  </library>
+  <library name="Maven: com.reindietions:service-framework:1.0.0-SNAPSHOT">
+    <archive path="/home/eeshan/.m2/repository/com/reindietions/service-framework/1.0.0-SNAPSHOT/service-framework-1.0.0-SNAPSHOT.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlgraphics:batik-ext:1.7">
+    <archive path="/home/eeshan/.m2/repository/org/apache/xmlgraphics/batik-ext/1.7/batik-ext-1.7.jar" />
+  </library>
+  <library name="Maven: org.apache.httpcomponents:httpmime:4.3.2">
+    <archive path="/home/eeshan/.m2/repository/org/apache/httpcomponents/httpmime/4.3.2/httpmime-4.3.2.jar" />
+  </library>
+  <library name="Maven: javax.mail:mail:1.4">
+    <archive path="/home/eeshan/.m2/repository/javax/mail/mail/1.4/mail-1.4.jar" />
+  </library>
+</eclipse-userlibraries>
+

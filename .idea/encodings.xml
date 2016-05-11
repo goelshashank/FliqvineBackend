@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/datamodel-core/trunk" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/media/uploadserver" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/dataservice" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-analytics" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-api" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-api-internal" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-core" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-mail" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-manager" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-marketing" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-notification" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-rest" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-seo" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-test" charset="UTF-8" />
+    <file url="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/vertx-maven-parent" charset="UTF-8" />
+  </component>
+</project>
+

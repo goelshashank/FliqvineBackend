@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/datamodel-core/trunk/core-datamodel.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/datamodel-core/trunk/core-datamodel.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/dataservice/dataservice.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/dataservice/dataservice.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/maven-parent/maven-parent.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/maven-parent/maven-parent.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-analytics/services-analytics.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-analytics/services-analytics.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-api/services-api.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-api/services-api.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-api-internal/services-api-internal.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-api-internal/services-api-internal.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-core/services-core.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-core/services-core.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-mail/services-mail.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-mail/services-mail.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-manager/services-manager.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-manager/services-manager.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-marketing/services-marketing.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-marketing/services-marketing.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-notification/services-notification.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-notification/services-notification.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-rest/services-rest.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-rest/services-rest.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-seo/services-seo.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-seo/services-seo.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/services-test.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/services-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standalone_run/standalone_run.iml" filepath="$PROJECT_DIR$/standalone_run/standalone_run.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/media/uploadserver/uploadserver.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/media/uploadserver/uploadserver.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/vertx-maven-parent/vertx-maven-parent.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/vertx-maven-parent/vertx-maven-parent.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/vertx_integration/vertx_integration.iml" filepath="$USER_HOME$/workspace/riversidewebsite/trunk/RiversideServer/vertx_integration/vertx_integration.iml" />
+    </modules>
+  </component>
+</project>

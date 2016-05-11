@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/scribe-1.3.5.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/httpcore-4.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/jackson-databind-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/jackson-core-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/zencoder-java-2.0.15.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/httpclient-4.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/jackson-annotations-2.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/jackson-mapper-lgpl-1.9.12.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/httpmime-4.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/aws-java-sdk-1.6.12.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/jackson-core-lgpl-1.9.12.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/joda-time-2.9.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/mods/com.reindietions.media~uploadserver~1.0.0-SNAPSHOT/lib/json-20140107.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

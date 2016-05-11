@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/jackson-annotations-2.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/handlebars-jackson2-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/jackson-core-2.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/handlebars-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/antlr4-runtime-4.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/httpcore-4.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/jackson-databind-2.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/rhino-1.7R4.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/httpmime-4.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/workspace/riversidewebsite/trunk/RiversideServer/services/services-test/target/mods/com.reindietions.test.services~services-test~1.0.0-SNAPSHOT/lib/httpclient-4.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
